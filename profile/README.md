@@ -51,5 +51,5 @@ The project architecture is divided into three major components:
 ---
 
 👥 Team & Support
-Lead Developer: samuelba._.
-Official Support Server: [Join our Discord](https://discord.gg/B8pyYPAzpS)
+- Lead Developer: samuelba._.
+- Official Support Server: [Join our Discord](https://discord.gg/B8pyYPAzpS)
