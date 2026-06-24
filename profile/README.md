@@ -6,7 +6,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Next.js-15-black?style=for-the-badge&logo=nextdotjs" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-3.4-06B6D4?style=for-the-badge&logo=tailwindcss" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-4.2-06B6D4?style=for-the-badge&logo=tailwindcss" alt="Tailwind CSS" />
   <img src="https://img.shields.io/badge/MongoDB-Shared-47A248?style=for-the-badge&logo=mongodb" alt="MongoDB" />
   <img src="https://img.shields.io/badge/Discord.js-14.x-5865F2?style=for-the-badge&logo=discord" alt="Discord.js" />
 </p>
