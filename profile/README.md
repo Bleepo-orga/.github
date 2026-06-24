@@ -49,3 +49,7 @@ The project architecture is divided into three major components:
 * **Library:** Discord.js v14
 
 ---
+
+👥 Team & Support
+Lead Developer: samuelba._.
+Official Support Server: [Join our Discord](https://discord.gg/B8pyYPAzpS)
